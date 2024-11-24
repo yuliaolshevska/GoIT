@@ -1,0 +1,122 @@
+    1  help Is
+    2  help Is-Shr
+    3  help Ls
+    4  man-Ls
+    5  help-Ls
+    6  Ls
+    7  Ls-Ih
+    8  Ls-Lh
+    9  Ls-Ihr
+   10  Ls-Lhr
+   11  Ls
+   12  clear
+   13  cd
+   14  cd desktop
+   15  Ls
+   16  cd Desktop
+   17  cd...
+   18  cd ..
+   19  ls
+   20  Ls
+   21  cd ..
+   22  Ls
+   23  cd 3D objects
+   24  cd ~
+   25  pwd
+   26  cd
+   27  pwd
+   28  cd ..
+   29  mkdir Lesson
+   30  Ls
+   31  mkdir Lesson2
+   32  Ls
+   33  touch empty.txt
+   34  Ls
+   35  clear
+   36  git
+   37  cd learning_git
+   38  cd C:\learning_git
+   39  -c&&rm~/.bash_history
+   40  -c && rm ~/.bash_history
+   41  git config --global user.name "Anna Antipova"
+   42  git config --global user.email anna_viktorivna@ukr.net
+   43  git clone https://github.com/Anna-2024-QA/HW_10.git
+   44  cd HW_10
+   45  git add text_ignore.txt
+   46  touch text_ignore.txt
+   47  git add .gitignore text_ignore.txt
+   48  cd .gitignore
+   49  git status
+   50  git add
+   51  git add . 
+   52  git commit -m "update ignored files"
+   53  touch main_test.txt
+   54  git commit -m "create new file main_test"
+   55  git add .
+   56  git commit -m "create new file"
+   57  git branch develop
+   58  git checkout develop
+   59  touch develop_test.txt
+   60  git add .
+   61  git commit -m "create new branch"
+   62  git status
+   63  git commit -a "create new branch"
+   64  git status
+   65  git commit
+   66  ді
+   67  ls
+   68  ls -f
+   69  git add develop_test.txt
+   70  git status
+   71  git add .
+   72  git commit
+   73  cd C:\learning_git
+   74  git status
+   75  cd HW_10
+   76  git status
+   77  git commit -m"New branch"
+   78  git status
+   79  git log-3
+   80  git log -3
+   81  git checkout main
+   82  git merge develop
+   83  git log
+   84  git log
+   85  command_list.csv
+   86  history>command_list.csv
+   87  git add .
+   88  git commit -m"downloading information"
+   89  git push
+   90  git status
+   91  cd HW_10
+   92  cd c:/learning_git/HW_10
+   93  git push
+   94  git push
+   95  vim develop_test.txt
+   96  vim develop_test.txt
+   97  cd ..
+   98  cd ..
+   99  cd..
+  100  cd ..
+  101  cd Desktop
+  102  cd C:\git test
+  103  cd C:cd git test
+  104  clear
+  105  cd C:cd git test
+  106  cd C:cd git
+  107  cd C:\learning_git
+  108  cd HW_10
+  109  clear
+  110  cd C:\git test\HW_10
+  111  cd C:\git test
+  112  cd C:\git test
+  113  cd C:\git test
+  114  cd C:\git
+  115  cd HW_10
+  116  history > command_list.cvs
+  117  git push
+  118  git remote -v
+  119  cd C:\learning_git
+  120  cd HW_10
+  121  histoty > command_list.csv
+  122  history > command_list.csv
